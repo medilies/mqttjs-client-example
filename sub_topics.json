@@ -1,0 +1,4 @@
+{
+    "topic/example": { "qos": 1 },
+    "+/topic/example_two": { "qos": 2 }
+}
